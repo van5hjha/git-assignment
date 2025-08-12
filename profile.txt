@@ -1,3 +1,4 @@
 -----------------------------------------------
 Hey This is krish jha
 I am from New Delhi
+Skills: python. bash
